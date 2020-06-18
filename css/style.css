@@ -218,12 +218,12 @@ h3 {
 .tab {
   width: 112px;
   height: 112px;
+  margin: 0.5px 0;
+  padding: 45px 0;
+  font-size: 15px;
   font-weight: bold;
   color: #FFFFFF;
   background: #333333;
-  font-size: 15px;
-  margin: 0.5px 0;
-  padding: 45px 0;
 }
 
 .tab--one {
@@ -235,15 +235,15 @@ h3 {
   left: 20px;
   display: inline-block;
   width: 476px;
-  text-align: left;
   margin: 0;
   padding: 0;
+  text-align: left;
 }
 
 .tabs__picture {
-  display: inline-block;
   position: relative;
   left: 105px;
+  display: inline-block;
 }
 
 .contact__send {
