@@ -1,4 +1,3 @@
-
 *{
   box-sizing: border-box;
 }
@@ -25,7 +24,7 @@ body {
 
 .header__logo {
   display: inline-block; 
-  padding: 21px 582px 23px 150px;
+  padding: 21px 530px 23px 150px;
 }
 
 .header__navigation {
