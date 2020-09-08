@@ -1,3 +1,3 @@
-# Lesson_4
+# Axit lesson 4 HTML&CSS
 
-https://viktoriya-druzhkova.github.io/Axit/
+<a href='https://druzhkova.github.io/Axit-lesson-4-HTML-CSS/'>Watch here</a>
